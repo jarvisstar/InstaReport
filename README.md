@@ -58,7 +58,3 @@ python ReportBot.py
 # Features 
 1. Reports Targeted Instagram Profile
 2. Reports Targeted Video On Instagram
-
-
-<a href="https://t.me/rajbhx"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/rajbhx"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
